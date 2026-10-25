@@ -1,3 +1,22 @@
+<!-- gully-header:start -->
+<a href="https://gullychain.xyz"><img src="https://gullychain.xyz/brand/repos/Mirror.svg" alt="GullyChain · Mirror" width="100%"></a>
+
+<p align="center">
+  <a href="https://gullychain.xyz"><img src="https://img.shields.io/badge/gullychain.xyz-01D9FA?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=000000" alt="Website"></a>
+  <a href="https://app.gullychain.xyz"><img src="https://img.shields.io/badge/App-0A0F1A?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=01D9FA" alt="App"></a>
+  <a href="https://docs.gullychain.xyz"><img src="https://img.shields.io/badge/Docs-0A0F1A?style=for-the-badge&labelColor=000000&logo=readthedocs&logoColor=01D9FA" alt="Docs"></a>
+  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0A0F1A?style=for-the-badge&labelColor=000000&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://t.me/GullyLabsNews"><img src="https://img.shields.io/badge/Telegram-0A0F1A?style=for-the-badge&labelColor=000000&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
+  <a href="https://github.com/gully-labs"><img src="https://img.shields.io/badge/GitHub-0A0F1A?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<p align="center"><b>Mirror: Unity networking for Gully Studio games.</b></p>
+
+<p align="center"><sub>Maintained by <a href="https://gullylabs.xyz">Gully Labs</a> as part of <a href="https://gullychain.xyz">GullyChain</a>. Fork of <a href="https://github.com/MirrorNetworking/Mirror">MirrorNetworking/Mirror</a>, used under its MIT licence. Not affiliated with or endorsed by Mirror Networking.</sub></p>
+
+---
+<!-- gully-header:end -->
+
 ![Mirror Logo](https://user-images.githubusercontent.com/16416509/119120944-6db26780-ba5f-11eb-9cdd-fc8500207f4d.png)
 <p align="center">
 <a href="https://assetstore.unity.com/packages/tools/network/mirror-129321"><img src="https://img.shields.io/badge/download-brightgreen.svg?style=for-the-badge&logo=unity&colorA=363a4f&colorB=f5a97f" alt="Download"></a>
